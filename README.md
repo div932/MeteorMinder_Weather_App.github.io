@@ -1,5 +1,5 @@
 # Weather_App
-Webiste : https://div932.github.io/Weather_App/
+Webiste : https://div932.github.io/Weather_App.github.io/
 
 Displays Weather Report of the searched city.
 
